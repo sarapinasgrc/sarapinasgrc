@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sara, I’m currently studying a Bachelor's Degree on Data Science and Engineering</p>
+<p align="left">My name is Sara, and I just graduated from a Bachelor's Degree on Data Science and Engineering</p>
 
 ###
 
